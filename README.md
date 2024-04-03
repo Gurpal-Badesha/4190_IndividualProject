@@ -8,3 +8,6 @@ Branch_Feature1
 
 Branch_Feature2
 1. Added second feature to get the product of array integers
+
+Change
+1. Added Inline Comment
