@@ -5,3 +5,6 @@ Branch_Feature1
 2. Created a package inside the project and named as 'ArrayCalculator'
 3. Added a java class under the package and named as 'ArrayCalulations'
 4. Wrote java code to get the Sum of array integers
+
+Branch_Feature2
+1. Added second feature to get the product of array integers
