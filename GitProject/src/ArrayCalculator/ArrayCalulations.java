@@ -32,6 +32,9 @@ public class ArrayCalulations {
 	        
 	        //Print the product of array elements
 	        System.out.println("The product of the array values is: " + product);
+	        
+	        
+	        //Adding inline comment to make changes
 	    }
 
 	}
